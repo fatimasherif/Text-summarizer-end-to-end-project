@@ -1,0 +1,27 @@
+transformers
+transformers[sentencepiece]
+datasets
+sacrebleu
+rouge_score
+py7zr
+pandas
+nltk
+tqdm
+pyyaml
+matplotlib
+
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.2.2+cu121
+torchvision==0.17.2+cu121
+torchaudio==2.2.2+cu121
+
+notebook
+boto3
+mypy-boto3-s3
+python-box
+fastapi
+uvicorn
+jinja2
+ensure
+
+-e .
